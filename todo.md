@@ -2,6 +2,7 @@ Overall goal:
 - [ ] Implement Tarjan's [1](https://www.topcoder.com/thrive/articles/tarjans-algorithm-for-strongly-connected-components), [2](https://en.wikipedia.org/wiki/Tarjan%27s_strongly_connected_components_algorithm)
 
 todo:
+- [ ] implement a graph
 - [ ] dfs
 - [ ] bfs
 - [ ] bellman-ford

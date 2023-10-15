@@ -19,24 +19,33 @@
 
 <br></br>
 
-## Specifications
+## Inputs
 
 ---    
 
     vertices = 10
     edges = [
         (6, 2),
-        (1, 4)
-        (1, 5)
-        (3, 5)
-        (3, 4)
-        (4, 9)
-        (8, 3)
-        (9, 8)
-        (9, 0)
-        (7, 0)
+        (1, 4),
+        (1, 5),
+        (3, 5),
+        (3, 4),
+        (4, 9),
+        (8, 3),
+        (9, 8),
+        (9, 0),
+        (7, 0),
         (7, 4)
     ]
+
+In this example, use `graph_name = Graph(vertices, edges)` to make this graph object.
+
+<br></br>
+
+### Internal Stuffs
+
+---
+
 
     edge_list = edges
 
