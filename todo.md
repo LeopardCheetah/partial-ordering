@@ -12,3 +12,6 @@ todo:
 - [ ] dag relaxation (see lecture 11)
 - [ ] johnson's [1](https://en.wikipedia.org/wiki/Johnson's_algorithm)
 - [ ] floyd-warshall's
+- [ ] Louvain Method
+
+- Look at network theory
